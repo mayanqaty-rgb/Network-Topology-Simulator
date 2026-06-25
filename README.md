@@ -1,6 +1,6 @@
 # Network-Topology-Simulator
 Network Topology Simulator built with Python &amp; Tkinter. Add PCs, Switches &amp; Routers · Drag nodes · Connect devices · BFS-powered Ping simulation with path highlighting · Rename nodes · Delete nodes/links · Save &amp; Load topologies (JSON) · Clean, responsive GUI — no dependencies beyond Python stdlib.
-# 🖧 NetSim — Network Topology Simulator
+# 🖧 NetSim — Network Topology Simulator 
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange?style=flat-square)
